@@ -1,0 +1,37 @@
+canonical_identifier: bkk:krp/KR2k0197/v1
+canonical_location: https://kanripo.org/bkk/KR2k0197/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 袁崧宜都山川記一卷
+  identifiers:
+    krp: KR2k0197
+  tags:
+    kr-categories: KR2k
+    tls-dates: dat04500
+  source:
+    repository: tls-texts
+    path: data/tls/KR2k0197.xml
+  edition:
+    short: bkk
+assets:
+  parts:
+  - {seq: 1, filename: KR2k0197_001.yaml, hash: 'sha256:1bdb905253f70328e8712c6283272f5200daae3e93b1f0ae9f72bc455670ce6e'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR2k0197_001.markers.yaml, hash: 'sha256:8994fc4bebbce0cef79d1c4ddee796bccee256e9cc82a702b61103a523fde052'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR2k0197_CHANT_001-1a.1-h
+    span:
+    - body
+    - 0
+    - 1424
+  label: 袁崧宜都山川記
+  type: section
+  level: 1
+hash: sha256:8e43d8e53dd50394856086eeae5218c2462ed5b07a714453e96211dd16e2964f
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
