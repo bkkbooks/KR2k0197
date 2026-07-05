@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 1, filename: KR2k0197_001.yaml, hash: 'sha256:1bdb905253f70328e8712c6283272f5200daae3e93b1f0ae9f72bc455670ce6e'}
+  - {seq: 1, filename: KR2k0197_001.yaml, hash: 'sha256:c93d3282f05a997f1867483a984d8c0c6cca674393300ad12e6cfdf95251de77'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR2k0197_001.markers.yaml, hash: 'sha256:8994fc4bebbce0cef79d1c4ddee796bccee256e9cc82a702b61103a523fde052'}
+  - {seq: 1, role: markers, filename: assets/KR2k0197_001.markers.yaml, hash: 'sha256:212eea9ded31c9abc64e6659c089852a3f019ca6359da54f396e37c467c1f0ad'}
 table_of_contents:
 - ref:
     seq: 1
@@ -31,7 +31,4 @@ table_of_contents:
   label: 袁崧宜都山川記
   type: section
   level: 1
-hash: sha256:8e43d8e53dd50394856086eeae5218c2462ed5b07a714453e96211dd16e2964f
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:e22f49d9d8a5b93518817c9ce8c3a2b5867529b53b77a61c5970d3a759d891bc
