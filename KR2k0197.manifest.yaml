@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR2k0197/v1
 canonical_location: https://kanripo.org/bkk/KR2k0197/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 袁崧宜都山川記一卷
   identifiers:
@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 1, filename: KR2k0197_001.yaml, hash: 'sha256:c93d3282f05a997f1867483a984d8c0c6cca674393300ad12e6cfdf95251de77'}
+  - {seq: 1, filename: KR2k0197_001.yaml, hash: 'sha256:f65d97da2fb9e5870d05a9a0cf422d74eb114786f4cfa6b1946c32b921762d0a'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR2k0197_001.markers.yaml, hash: 'sha256:212eea9ded31c9abc64e6659c089852a3f019ca6359da54f396e37c467c1f0ad'}
+  - {seq: 1, role: markers, filename: assets/KR2k0197_001.markers.yaml, hash: 'sha256:b0bf6ba0d1ba79cdd832a72e51086aa81ebf97b8d981e7f30d50caa99cc88273'}
 table_of_contents:
 - ref:
     seq: 1
@@ -31,4 +31,7 @@ table_of_contents:
   label: 袁崧宜都山川記
   type: section
   level: 1
-hash: sha256:e22f49d9d8a5b93518817c9ce8c3a2b5867529b53b77a61c5970d3a759d891bc
+hash: sha256:5023c82b803325aa7c90938639f01063fc94daae659a7bd219ccbeb682c4bc6c
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
